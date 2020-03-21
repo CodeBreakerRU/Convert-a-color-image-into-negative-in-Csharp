@@ -1,0 +1,7 @@
+c:\users\rasika\documents\visual studio 2010\Projects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+c:\users\rasika\documents\visual studio 2010\Projects\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+c:\users\rasika\documents\visual studio 2010\Projects\FirstProgram\FirstProgram\obj\x86\Debug\FirstProgram.Form1.resources
+c:\users\rasika\documents\visual studio 2010\Projects\FirstProgram\FirstProgram\obj\x86\Debug\FirstProgram.Properties.Resources.resources
+c:\users\rasika\documents\visual studio 2010\Projects\FirstProgram\FirstProgram\obj\x86\Debug\FirstProgram.csproj.GenerateResource.Cache
+c:\users\rasika\documents\visual studio 2010\Projects\FirstProgram\FirstProgram\obj\x86\Debug\FirstProgram.exe
+c:\users\rasika\documents\visual studio 2010\Projects\FirstProgram\FirstProgram\obj\x86\Debug\FirstProgram.pdb

@@ -4,6 +4,6 @@ Convert a color image into negative in C#
 
 Visual Studio 2010
 
-How to use <br/>
+<b>How to use </b><br/>
 change the image paths in Form1.cs<br/>
 Execute
